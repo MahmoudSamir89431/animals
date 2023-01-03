@@ -3,3 +3,5 @@ doggy
 rabbit
 new pet 
 another new pet
+add1
+add2
